@@ -1,0 +1,11 @@
+ntohs
+:
+bit형 값 정수형 변환 ex> ethernet TYPE: bit -> integer
+
+inet_ntoa()
+:
+bit형 ip주소를 문자열로 변환
+
+
+
+https://blog.naver.com/ndb796/221053782948
